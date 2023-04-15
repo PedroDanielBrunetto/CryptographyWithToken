@@ -1,0 +1,10 @@
+C:\Users\Aluno\Pictures\criptografia\criptografia\bin\Debug\criptografia.exe.config
+C:\Users\Aluno\Pictures\criptografia\criptografia\bin\Debug\criptografia.exe
+C:\Users\Aluno\Pictures\criptografia\criptografia\bin\Debug\criptografia.pdb
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.csprojAssemblyReference.cache
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.Form1.resources
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.Properties.Resources.resources
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.csproj.GenerateResource.cache
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.exe
+C:\Users\Aluno\Pictures\criptografia\criptografia\obj\Debug\criptografia.pdb
